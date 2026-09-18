@@ -1,1 +1,9 @@
+# Служебные файлы CAD
+*.bak
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
 
+# Исходники
+# *.dwg
